@@ -7,9 +7,6 @@ This repository contains code for image stylization, a technique used to transfe
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
